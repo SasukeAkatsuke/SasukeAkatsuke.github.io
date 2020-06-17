@@ -1,0 +1,260 @@
+body{
+    background-color:black;
+    background-size: cover;
+   
+ 
+ 
+   
+}
+ 
+     
+ .menu li
+    {
+    float:left;
+    list-style: none;
+    margin:10px 25px ;
+    line-height: 10px;
+    font-size: 18px;
+  
+    }
+
+   
+    .menu
+{
+    
+margin:0 auto;
+display:table;
+    padding: 2px;  
+    text-decoration: none;
+     font-family: Courier New, monospace;
+    
+
+}
+.menu-text{
+    color: black;
+    margin: 40px;
+    font-style: Courier New, monospace;
+    
+}
+.blok-menu
+{
+overflow: hidden;
+background: red;
+opacity: 0.7;
+margin-top: -20px;
+font-size: xx-large;
+
+}
+
+.name{
+    overflow: hidden;
+    
+    line-height: 80px;
+    background-image: url("j/OwQeSDTAe3E.jpg");
+    background-position: center;
+    font-size: 50px; 
+    text-decoration: underline;
+    text-align: center;
+    opacity: 0.8;
+    color: red;
+     font-family: Courier New, monospace;
+
+   
+}
+ 
+ 
+}
+body {
+    margin: 40px;
+   
+    }
+  .circle {
+    background-image: url("j/666.png");
+    background-position: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+ width:800px;
+ 
+padding:250px;
+   
+   
+    -webkit-animation: pulsing 5s infinite;
+    animation: pulsing 5s infinite;
+   
+     
+    
+  }
+  
+  @-webkit-keyframes pulsing {
+    0% {
+      -webkit-transform: scale(0.5, 0.5);
+      transform: scale(0.5, 0.5)
+    }
+    50% {
+      -webkit-transform: scale(1.0, 1.0);
+      transform: scale(1.0, 1.0);
+    }
+    100% {
+      -webkit-transform: scale(0.5, 0.5);
+      transform: scale(0.5, 0.5);
+       
+    }
+  }
+  
+ 
+  
+
+  .info-about{
+    
+      text-align: center;
+      font-size: 30px;
+      
+  }
+  .anchor {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+ 
+.img img {
+   width: 20%;
+   display: flex;
+   margin-right: 2%;
+   margin-left: 2%;
+   
+}
+.img  {
+    width: 99%;
+     background-image: center;
+    margin-left: 1%;
+    display: flex;
+ }
+ .p{
+     background-image: url("j/OwQeSDTAe3E.jpg");
+     background-position: center;
+  
+     text-align: center;
+     font-size: 15px;
+     cursor:pointer;
+   
+
+ }
+ .sad{
+      
+     text-align: center;
+     font-size: xx-large;
+     color: white;
+      font-family: Courier New, monospace;
+      
+ }
+ .f{  list-style-type: none;;
+    text-align: center;
+    font-size: xx-large;
+    color : red;
+    
+
+  
+ }
+ 
+  
+ form {
+   margin-top: 20px;
+    border: 3px solid #f1f1f1;
+}
+
+ 
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+ 
+button {
+    background-color:red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: Courier New, monospace;
+    font-size: xx-large;
+     opacity: 0.6;
+   
+}
+
+ 
+button:hover {
+    opacity: 0.8;
+}
+
+ 
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: red;
+    opacity: 0.6;
+    
+    
+}
+ 
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+ 
+
+ 
+.container {
+    padding: 16px;
+    color: whitesmoke;
+     font-family: Courier New, monospace;
+}
+
+ 
+span.psw {
+    float: right;
+    padding-top: 16px;
+    color: black;
+     font-family: Courier New, monospace;
+   
+}
+
+ 
+@media screen and (max-width: 300px) {
+     
+    span.psw {
+        display: block;
+        float: none;
+        font-family: Courier New, monospace;
+    }
+    .cancelbtn {
+        width: 100%;
+         font-family: Courier New, monospace;
+    }
+}
+.sad11{
+  text-align: center;
+   font-size: xx-large;
+   color: white;
+    font-family: Courier New, monospace;
+}
+  .menu-text1{
+      color: red;
+      font-family: Courier New, monospace	;
+     
+         
+  }
+
+  .o{
+       font-family: Courier New, monospace;
+       color: white;
+       text-align: center;
+  }
